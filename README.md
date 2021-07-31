@@ -14,7 +14,7 @@
 I am a PhD student...
 
 - 🔭 I’m currently working in the field of Earthquake Engineering and Risk reduction.
-- 👯 I’m looking to collaborate on development of tools regarding seismic design and assessment, as well as anything related to python, AI and UI.
+- 🤝 I’m looking to collaborate on development of tools regarding seismic design and assessment, as well as anything related to python, AI and UI.
 - 💬 Ask me about Earthquake Engineering and Data Science.
 - 📫 How to reach me: davit.shahnazaryan@iusspavia.it
 

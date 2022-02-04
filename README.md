@@ -11,7 +11,7 @@
 
 ### Hi, I am Davit 👋
 
-I am a PhD student...
+I am a PhD...
 
 - 🔭 I’m currently working in the field of Earthquake Engineering and Risk reduction.
 - 🤝 I’m looking to collaborate on development of tools regarding seismic design and assessment, as well as anything related to python, AI and UI.

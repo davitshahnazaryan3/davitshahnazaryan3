@@ -11,18 +11,15 @@
 
 ### Hi, I am Davit 👋
 
-I am a PhD...
-
-- 🔭 I’m currently working in the field of Earthquake Engineering and Risk reduction.
-- 🤝 I’m looking to collaborate on development of tools regarding seismic design and assessment, as well as anything related to python, AI and UI.
-- 💬 Ask me about Earthquake Engineering and Data Science.
-- 📫 How to reach me: davit.shahnazaryan@iusspavia.it
+- 🔭 I’m currently working as a software engineer
+- 💬 Ask me about software development, Earthquake Engineering and Data Science.
+- 📫 How to reach me: shahnazaryandavit1@gmail.com
 
 
 <p>
 <a href="https://github.com/davitshahnazaryan3">
   <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davitshahnazaryan3&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitshahnazaryan3&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitshahnazaryan3&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"> -->
 </a>
 </p>
 

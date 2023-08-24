@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=davitshahnazaryan3&style=flat)
 [![Linkedin](https://img.shields.io/badge/-davit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/davitshahnazaryan/)
-[![Gmail](https://img.shields.io/badge/-davit-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:davit.shahnazaryan@iusspavia.it)
+[![Gmail](https://img.shields.io/badge/-davit-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:shahnazaryandavit1@gmail.com)
 [![Github](https://img.shields.io/badge/-davit-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/davitshahnazaryan3)
 [![Orcid](https://img.shields.io/badge/-davit-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0002-0529-5763)
 [![Researchgate](https://img.shields.io/badge/-davit-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Davit-Shahnazaryan-2)

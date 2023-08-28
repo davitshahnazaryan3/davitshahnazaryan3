@@ -12,7 +12,6 @@
 ### Hi, I am Davit 👋
 
 - 🔭 I’m currently working as a software engineer
-- 💬 Ask me about software development, Earthquake Engineering and Data Science.
 - 📫 How to reach me: shahnazaryandavit1@gmail.com
 
 

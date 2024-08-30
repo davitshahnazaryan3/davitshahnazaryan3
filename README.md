@@ -13,8 +13,8 @@
 
 - 🔭 I’m currently working as a software engineer
 - 📫 How to reach me: shahnazaryandavit1@gmail.com
-- Check out our website <a href="https://www.djura.it">Djura</a>
-- And <a href="https://experiments.builtenvdata.eu/">Built Environment Data</a>
+- Check out our website <a href="https://www.djura.it">Djura Risk, Engineering & Data</a> and <a href="[https://www.djura.it](https://github.com/djura-risk-data-engineering)">GitHub</a>
+- And <a href="https://experiments.builtenvdata.eu/">Built Environment Data</a> 
 
 
 <p>

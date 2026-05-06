@@ -17,12 +17,6 @@
 - And <a href="https://experiments.builtenvdata.eu/">Built Environment Data</a> 
 
 
-<p>
-  <a href="https://github.com/davitshahnazaryan3">
-    <img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davitshahnazaryan3&theme=github_dark" alt="Most Used Languages">
-  </a>
-</p>
-
 <br>
 
 ### Recent publications

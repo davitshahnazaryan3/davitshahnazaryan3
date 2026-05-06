@@ -17,9 +17,9 @@
 - And <a href="https://experiments.builtenvdata.eu/">Built Environment Data</a> 
 
 
-<p align="center">
+<p>
   <a href="https://github.com/davitshahnazaryan3">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davitshahnazaryan3&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE" alt="Top Languages">
+    <img height="120" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=davitshahnazaryan3&theme=github_dark" alt="Most Used Languages">
   </a>
 </p>
 
